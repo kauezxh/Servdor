@@ -1,2 +1,2 @@
-servidor# Servdor
+servidor
 Minecraft 
